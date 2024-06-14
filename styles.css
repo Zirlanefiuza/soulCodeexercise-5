@@ -1,0 +1,97 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #fffaf2; 
+    color: #5d2e07;
+}
+
+header {
+    background-color: #814151; 
+    padding: 10px 0;
+}
+
+header .navbar-brand {
+    display: flex;
+    align-items: center;
+}
+
+header .navbar-brand img {
+    margin-right: 10px;
+}
+
+header .navbar-nav .nav-link {
+    color: #FFFFFF; 
+    font-weight: 700;
+}
+
+header .navbar-nav .nav-link:hover {
+    color: #fffaf2;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+main {
+    padding: 20px 0;
+}
+
+section h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+    color: #5d2e07; 
+    font-weight: 700;
+}
+
+section p {
+    font-size: 1.2em;
+    line-height: 1.5;
+    color: #5d2e07; 
+    font-weight: 400;
+}
+
+
+footer {
+    background-color: #5d2e07; 
+    color: #FFFFFF;
+    text-align: center;
+    padding: 10px 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+footer p {
+    margin: 0;
+}
+
+footer i {
+    color: #fffaf2;
+    font-size: 1.5em;
+}
+
+
+.btn-primary {
+    background-color: #814151;
+    border-color: #814151; 
+}
+
+.btn-primary:hover {
+    background-color: #fffaf2; 
+    border-color: #fffaf2;
+    color: #814151; 
+}
+
+
+@media (max-width: 768px) {
+    header .navbar-nav {
+        text-align: center;
+    }
+    header .navbar-nav .nav-item {
+        margin-bottom: 10px;
+    }
+}
