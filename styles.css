@@ -91,14 +91,13 @@ section p {
     background-color: #314A43;
     color: #F6DCCE;
     text-align: center;
-    height: 12em;
     display: flex;
+    height: 15%;
     position: fixed;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     bottom: 0;
-
     width: 100%;
 }
 
