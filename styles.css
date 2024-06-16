@@ -93,7 +93,8 @@ section p {
     color: #F6DCCE;
     text-align: center;
     display: flex;
-    height: 15vh;
+    height: 15%;
+    position: fixed;
     flex-direction: column;
     justify-content: center;
     align-items: center;
