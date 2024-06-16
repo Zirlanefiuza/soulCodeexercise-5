@@ -21,7 +21,7 @@ header .navbar-brand {
     align-items: center;
     font-size: 1.5em;
     font-weight: 600;
-    color:  #314A43 !important;
+    color: #314A43 !important;
 }
 
 
@@ -33,7 +33,7 @@ header .navbar-nav .nav-link {
 }
 
 header .navbar-nav .nav-link:hover {
-    color: #F6DCCE !important; 
+    color: #F6DCCE !important;
 }
 
 
@@ -87,6 +87,7 @@ section p {
     display: inline;
     margin: 0;
 }
+
 .color-footer {
     background-color: #314A43;
     color: #F6DCCE;
@@ -113,13 +114,13 @@ footer p,
 footer a {
     margin: 0.5em 0;
     font-size: 1.1em;
-    color: #F6DCCE; 
+    color: #F6DCCE;
 }
 
 footer p:hover,
 footer a:hover,
-footer i:hover  {
-    color: #C27C88; 
+footer i:hover {
+    color: #C27C88;
 }
 
 footer i {
@@ -142,6 +143,7 @@ footer .social-icons a:hover {
     color: #C27C88;
 }
 
+
 .btn-primary {
     background-color: #314A43;
     border-color: #314A43;
@@ -158,6 +160,7 @@ footer .social-icons a:hover {
     .color-footer {
         position: relative;
     }
+
     footer .container {
         padding: 1em;
     }
