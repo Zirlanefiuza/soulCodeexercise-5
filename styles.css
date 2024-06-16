@@ -93,8 +93,7 @@ section p {
     color: #F6DCCE;
     text-align: center;
     display: flex;
-    height: 15%;
-    position: fixed;
+    height: 15vh;
     flex-direction: column;
     justify-content: center;
     align-items: center;
@@ -114,13 +113,13 @@ footer p,
 footer a {
     margin: 0.5em 0;
     font-size: 1.1em;
-    color: #F6DCCE;
+    color: #F6DCCE; 
 }
 
 footer p:hover,
 footer a:hover,
-footer i:hover {
-    color: #C27C88;
+footer i:hover  {
+    color: #C27C88; 
 }
 
 footer i {
@@ -142,7 +141,6 @@ footer .social-icons a {
 footer .social-icons a:hover {
     color: #C27C88;
 }
-
 
 .btn-primary {
     background-color: #314A43;
