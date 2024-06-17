@@ -1,6 +1,6 @@
 # 🎂 Fiuza Confeitaria
 
-Este é o projeto desenvolvido durante o Bootcamp Full Stack React + Node da Soul Code Academy. 
+Este projeto foi desenvolvido durante o Bootcamp Full Stack React + Node da [Soul Code Academy](https://soulcode.com/bootcamp). 
 
 ## Bootcamp Soul Code 🎓
 
