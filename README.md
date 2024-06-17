@@ -14,7 +14,7 @@ Este é o projeto desenvolvido durante o Bootcamp Full Stack React + Node da Sou
 
 Este projeto consiste na criação de um site em HTML e CSS. O site inclui várias páginas e funcionalidades, seguindo as instruções e requisitos do Bootcamp. O design responsivo foi uma escolha minha, assim como o uso do Bootstrap para facilitar a construção da interface.
 
-- Você pode visualizar o projeto online através [Fiuza Confeitaria](https://soul-codeexercise-zirlane-fiuza.vercel.app/)
+- Você pode visualizar o projeto online através do link [Fiuza Confeitaria](https://soul-codeexercise-zirlane-fiuza.vercel.app/)
   
 ## Tecnologias Utilizadas
 
