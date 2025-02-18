@@ -1,4 +1,4 @@
-# 🎂 Fiuza Confeitaria
+# 🎂 Confeitaria
 
 Este projeto foi desenvolvido durante o Bootcamp Full Stack React + Node da [Soul Code Academy](https://soulcode.com/bootcamp). 
 
@@ -11,6 +11,20 @@ Este projeto foi desenvolvido durante o Bootcamp Full Stack React + Node da [Sou
 - **Desenvolvimento de Soft Skills:** 🌟
 
 ## Sobre o Projeto
+
+# 🍰 Confeitaria Online - Em Desenvolvimento 🚧
+
+**Status:** Em construção 🛠️  
+**Stack:** React, Bootstrap, Node.js, Express, MySQL  
+
+## 🔥 Próximas Implementações  
+- 🛒 Sistema de vendas e catálogo de produtos  
+- 💳 Pagamento online  
+- 🚚 Delivery integrado  
+- 🎂 Personalização de pedidos  
+
+📌 Este será um site real para uma confeitaria, atualmente estou implementando o backend com **Node.js e Express**.  
+
 
 Este projeto consiste na criação de um site em HTML e CSS. O site inclui várias páginas e funcionalidades, seguindo as instruções e requisitos do Bootcamp. O design responsivo foi uma escolha minha, assim como o uso do Bootstrap para facilitar a construção da interface.
 
